@@ -15,7 +15,7 @@ describe('SiGovArso', function () {
       SiGovArso.getSensor(sensor).then(function (data) {
         assert.equal('Soča', data.river);
         assert.equal('Log Čezsoški', data.station);
-        assert.equal(138, data.level);
+        assert.equal(1.38, data.level);
         assert.equal(12.5, data.discharge);
         assert.equal(9.4, data.temperature);
         done();
