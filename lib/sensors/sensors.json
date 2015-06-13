@@ -1,542 +1,542 @@
 {
-  "Mura/Petanjci": {
+  "mura/petanjci": {
     "river": "Mura",
     "station": "Petanjci",
     "plugin": "si-gov-arso"
   },
-  "Ščavnica/Pristava": {
+  "ščavnica/pristava": {
     "river": "Ščavnica",
     "station": "Pristava",
     "plugin": "si-gov-arso"
   },
-  "Ledava/Nuskova": {
+  "ledava/nuskova": {
     "river": "Ledava",
     "station": "Nuskova",
     "plugin": "si-gov-arso"
   },
-  "Ledava/Čentiba": {
+  "ledava/čentiba": {
     "river": "Ledava",
     "station": "Čentiba",
     "plugin": "si-gov-arso"
   },
-  "Velika Krka/Hodoš": {
+  "velika krka/hodoš": {
     "river": "Velika Krka",
     "station": "Hodoš",
     "plugin": "si-gov-arso"
   },
-  "Drava/Črneče": {
+  "drava/črneče": {
     "river": "Drava",
     "station": "Črneče",
     "plugin": "si-gov-arso"
   },
-  "Drava/HE Dravograd": {
+  "drava/he dravograd": {
     "river": "Drava",
     "station": "HE Dravograd",
     "plugin": "si-gov-arso"
   },
-  "Drava/Ptuj": {
+  "drava/ptuj": {
     "river": "Drava",
     "station": "Ptuj",
     "plugin": "si-gov-arso"
   },
-  "Drava/HE Formin": {
+  "drava/he formin": {
     "river": "Drava",
     "station": "HE Formin",
     "plugin": "si-gov-arso"
   },
-  "Meža/Otiški vrh": {
+  "meža/otiški vrh": {
     "river": "Meža",
     "station": "Otiški vrh",
     "plugin": "si-gov-arso"
   },
-  "Mislinja/Dovže": {
+  "mislinja/dovže": {
     "river": "Mislinja",
     "station": "Dovže",
     "plugin": "si-gov-arso"
   },
-  "Bistrica/Muta": {
+  "bistrica/muta": {
     "river": "Bistrica",
     "station": "Muta",
     "plugin": "si-gov-arso"
   },
-  "Radoljna/Ruta": {
+  "radoljna/ruta": {
     "river": "Radoljna",
     "station": "Ruta",
     "plugin": "si-gov-arso"
   },
-  "Dravinja/Loče": {
+  "dravinja/loče": {
     "river": "Dravinja",
     "station": "Loče",
     "plugin": "si-gov-arso"
   },
-  "Dravinja/Videm": {
+  "dravinja/videm": {
     "river": "Dravinja",
     "station": "Videm",
     "plugin": "si-gov-arso"
   },
-  "Rogatnica/Podlehnik": {
+  "rogatnica/podlehnik": {
     "river": "Rogatnica",
     "station": "Podlehnik",
     "plugin": "si-gov-arso"
   },
-  "Polskava/Tržec": {
+  "polskava/tržec": {
     "river": "Polskava",
     "station": "Tržec",
     "plugin": "si-gov-arso"
   },
-  "Pesnica/Ranca": {
+  "pesnica/ranca": {
     "river": "Pesnica",
     "station": "Ranca",
     "plugin": "si-gov-arso"
   },
-  "Sava Dolinka/Kranjska Gora": {
+  "sava dolinka/kranjska gora": {
     "river": "Sava Dolinka",
     "station": "Kranjska Gora",
     "plugin": "si-gov-arso"
   },
-  "Sava Dolinka/Jesenice": {
+  "sava dolinka/jesenice": {
     "river": "Sava Dolinka",
     "station": "Jesenice",
     "plugin": "si-gov-arso"
   },
-  "Sava Dolinka/HE Moste": {
+  "sava dolinka/he moste": {
     "river": "Sava Dolinka",
     "station": "HE Moste",
     "plugin": "si-gov-arso"
   },
-  "Sava Dolinka/Blejski most": {
+  "sava dolinka/blejski most": {
     "river": "Sava Dolinka",
     "station": "Blejski most",
     "plugin": "si-gov-arso"
   },
-  "Sava Bohinjka/Sveti Janez": {
+  "sava bohinjka/sveti janez": {
     "river": "Sava Bohinjka",
     "station": "Sveti Janez",
     "plugin": "si-gov-arso"
   },
-  "Sava Bohinjka/Bodešče": {
+  "sava bohinjka/bodešče": {
     "river": "Sava Bohinjka",
     "station": "Bodešče",
     "plugin": "si-gov-arso"
   },
-  "Bistrica/Bohinjska Bistrica": {
+  "bistrica/bohinjska bistrica": {
     "river": "Bistrica",
     "station": "Bohinjska Bistrica",
     "plugin": "si-gov-arso"
   },
-  "Jezernica/Mlino": {
+  "jezernica/mlino": {
     "river": "Jezernica",
     "station": "Mlino",
     "plugin": "si-gov-arso"
   },
-  "Sava/Radovljica": {
+  "sava/radovljica": {
     "river": "Sava",
     "station": "Radovljica",
     "plugin": "si-gov-arso"
   },
-  "Sava/HE Mavčiče": {
+  "sava/he mavčiče": {
     "river": "Sava",
     "station": "HE Mavčiče",
     "plugin": "si-gov-arso"
   },
-  "Sava/Medno": {
+  "sava/medno": {
     "river": "Sava",
     "station": "Medno",
     "plugin": "si-gov-arso"
   },
-  "Sava/Šentjakob": {
+  "sava/šentjakob": {
     "river": "Sava",
     "station": "Šentjakob",
     "plugin": "si-gov-arso"
   },
-  "Sava/Hrastnik": {
+  "sava/hrastnik": {
     "river": "Sava",
     "station": "Hrastnik",
     "plugin": "si-gov-arso"
   },
-  "Sava/Jesenice na Dolenjskem": {
+  "sava/jesenice na dolenjskem": {
     "river": "Sava",
     "station": "Jesenice na Dolenjskem",
     "plugin": "si-gov-arso"
   },
-  "Lipnica/Ovsiše": {
+  "lipnica/ovsiše": {
     "river": "Lipnica",
     "station": "Ovsiše",
     "plugin": "si-gov-arso"
   },
-  "Tržiška Bistrica/Preska": {
+  "tržiška bistrica/preska": {
     "river": "Tržiška Bistrica",
     "station": "Preska",
     "plugin": "si-gov-arso"
   },
-  "Kokra/Kranj": {
+  "kokra/kranj": {
     "river": "Kokra",
     "station": "Kranj",
     "plugin": "si-gov-arso"
   },
-  "Sora/Suha": {
+  "sora/suha": {
     "river": "Sora",
     "station": "Suha",
     "plugin": "si-gov-arso"
   },
-  "Poljanska Sora/Zminec": {
+  "poljanska sora/zminec": {
     "river": "Poljanska Sora",
     "station": "Zminec",
     "plugin": "si-gov-arso"
   },
-  "Selška Sora/Železniki": {
+  "selška sora/železniki": {
     "river": "Selška Sora",
     "station": "Železniki",
     "plugin": "si-gov-arso"
   },
-  "Selška Sora/Vešter": {
+  "selška sora/vešter": {
     "river": "Selška Sora",
     "station": "Vešter",
     "plugin": "si-gov-arso"
   },
-  "Kamniška Bistrica/Kamnik": {
+  "kamniška bistrica/kamnik": {
     "river": "Kamniška Bistrica",
     "station": "Kamnik",
     "plugin": "si-gov-arso"
   },
-  "Kamniška Bistrica/Vir": {
+  "kamniška bistrica/vir": {
     "river": "Kamniška Bistrica",
     "station": "Vir",
     "plugin": "si-gov-arso"
   },
-  "Rača/Vir": {
+  "rača/vir": {
     "river": "Rača",
     "station": "Vir",
     "plugin": "si-gov-arso"
   },
-  "Rača/Podrečje": {
+  "rača/podrečje": {
     "river": "Rača",
     "station": "Podrečje",
     "plugin": "si-gov-arso"
   },
-  "Pšata/Topole": {
+  "pšata/topole": {
     "river": "Pšata",
     "station": "Topole",
     "plugin": "si-gov-arso"
   },
-  "Medija/Zagorje": {
+  "medija/zagorje": {
     "river": "Medija",
     "station": "Zagorje",
     "plugin": "si-gov-arso"
   },
-  "Sopota/Žebnik": {
+  "sopota/žebnik": {
     "river": "Sopota",
     "station": "Žebnik",
     "plugin": "si-gov-arso"
   },
-  "Mirna/Martinja vas": {
+  "mirna/martinja vas": {
     "river": "Mirna",
     "station": "Martinja vas",
     "plugin": "si-gov-arso"
   },
-  "Sevnična/Metni vrh": {
+  "sevnična/metni vrh": {
     "river": "Sevnična",
     "station": "Metni vrh",
     "plugin": "si-gov-arso"
   },
-  "Sotla/Rakovec": {
+  "sotla/rakovec": {
     "river": "Sotla",
     "station": "Rakovec",
     "plugin": "si-gov-arso"
   },
-  "Mestinjščica/Sodna vas": {
+  "mestinjščica/sodna vas": {
     "river": "Mestinjščica",
     "station": "Sodna vas",
     "plugin": "si-gov-arso"
   },
-  "Bistrica/Zagaj": {
+  "bistrica/zagaj": {
     "river": "Bistrica",
     "station": "Zagaj",
     "plugin": "si-gov-arso"
   },
-  "Kolpa/Metlika": {
+  "kolpa/metlika": {
     "river": "Kolpa",
     "station": "Metlika",
     "plugin": "si-gov-arso"
   },
-  "Rinža/Livold": {
+  "rinža/livold": {
     "river": "Rinža",
     "station": "Livold",
     "plugin": "si-gov-arso"
   },
-  "Ljubljanica/Vrhnika": {
+  "ljubljanica/vrhnika": {
     "river": "Ljubljanica",
     "station": "Vrhnika",
     "plugin": "si-gov-arso"
   },
-  "Ljubljanica/Kamin": {
+  "ljubljanica/kamin": {
     "river": "Ljubljanica",
     "station": "Kamin",
     "plugin": "si-gov-arso"
   },
-  "Ljubljanica/Moste": {
+  "ljubljanica/moste": {
     "river": "Ljubljanica",
     "station": "Moste",
     "plugin": "si-gov-arso"
   },
-  "Ljubija/Verd": {
+  "ljubija/verd": {
     "river": "Ljubija",
     "station": "Verd",
     "plugin": "si-gov-arso"
   },
-  "Bistra/Bistra": {
+  "bistra/bistra": {
     "river": "Bistra",
     "station": "Bistra",
     "plugin": "si-gov-arso"
   },
-  "Borovniščica/Borovnica": {
+  "borovniščica/borovnica": {
     "river": "Borovniščica",
     "station": "Borovnica",
     "plugin": "si-gov-arso"
   },
-  "Iška/Iška vas": {
+  "iška/iška vas": {
     "river": "Iška",
     "station": "Iška vas",
     "plugin": "si-gov-arso"
   },
-  "Gradaščica/Dvor": {
+  "gradaščica/dvor": {
     "river": "Gradaščica",
     "station": "Dvor",
     "plugin": "si-gov-arso"
   },
-  "Stržen/Gorenje Jezero": {
+  "stržen/gorenje jezero": {
     "river": "Stržen",
     "station": "Gorenje Jezero",
     "plugin": "si-gov-arso"
   },
-  "Pivka/Prestranek": {
+  "pivka/prestranek": {
     "river": "Pivka",
     "station": "Prestranek",
     "plugin": "si-gov-arso"
   },
-  "Pivka/Postojnska jama": {
+  "pivka/postojnska jama": {
     "river": "Pivka",
     "station": "Postojnska jama",
     "plugin": "si-gov-arso"
   },
-  "Nanoščica/Mali Otok": {
+  "nanoščica/mali otok": {
     "river": "Nanoščica",
     "station": "Mali Otok",
     "plugin": "si-gov-arso"
   },
-  "Savinja/Nazarje": {
+  "savinja/nazarje": {
     "river": "Savinja",
     "station": "Nazarje",
     "plugin": "si-gov-arso"
   },
-  "Savinja/Letuš": {
+  "savinja/letuš": {
     "river": "Savinja",
     "station": "Letuš",
     "plugin": "si-gov-arso"
   },
-  "Savinja/Laško": {
+  "savinja/laško": {
     "river": "Savinja",
     "station": "Laško",
     "plugin": "si-gov-arso"
   },
-  "Savinja/Veliko Širje": {
+  "savinja/veliko širje": {
     "river": "Savinja",
     "station": "Veliko Širje",
     "plugin": "si-gov-arso"
   },
-  "Paka/Velenje": {
+  "paka/velenje": {
     "river": "Paka",
     "station": "Velenje",
     "plugin": "si-gov-arso"
   },
-  "Paka/Šoštanj": {
+  "paka/šoštanj": {
     "river": "Paka",
     "station": "Šoštanj",
     "plugin": "si-gov-arso"
   },
-  "Paka/Rečica": {
+  "paka/rečica": {
     "river": "Paka",
     "station": "Rečica",
     "plugin": "si-gov-arso"
   },
-  "Velunja/Gaberke": {
+  "velunja/gaberke": {
     "river": "Velunja",
     "station": "Gaberke",
     "plugin": "si-gov-arso"
   },
-  "Voglajna/Črnolica": {
+  "voglajna/črnolica": {
     "river": "Voglajna",
     "station": "Črnolica",
     "plugin": "si-gov-arso"
   },
-  "Krka/Soteska": {
+  "krka/soteska": {
     "river": "Krka",
     "station": "Soteska",
     "plugin": "si-gov-arso"
   },
-  "Krka/Gorenja Gomila": {
+  "krka/gorenja gomila": {
     "river": "Krka",
     "station": "Gorenja Gomila",
     "plugin": "si-gov-arso"
   },
-  "Višnjica/Ivančna Gorica": {
+  "višnjica/ivančna gorica": {
     "river": "Višnjica",
     "station": "Ivančna Gorica",
     "plugin": "si-gov-arso"
   },
-  "Temenica/Rožni Vrh": {
+  "temenica/rožni vrh": {
     "river": "Temenica",
     "station": "Rožni Vrh",
     "plugin": "si-gov-arso"
   },
-  "Radulja/Škocjan": {
+  "radulja/škocjan": {
     "river": "Radulja",
     "station": "Škocjan",
     "plugin": "si-gov-arso"
   },
-  "Bistrica/Sodražica": {
+  "bistrica/sodražica": {
     "river": "Bistrica",
     "station": "Sodražica",
     "plugin": "si-gov-arso"
   },
-  "Ribnica/Prigorica": {
+  "ribnica/prigorica": {
     "river": "Ribnica",
     "station": "Prigorica",
     "plugin": "si-gov-arso"
   },
-  "Soča/Kršovec": {
+  "soča/kršovec": {
     "river": "Soča",
     "station": "Kršovec",
     "plugin": "si-gov-arso"
   },
-  "Soča/Log Čezsoški": {
+  "soča/log čezsoški": {
     "river": "Soča",
     "station": "Log Čezsoški",
     "lat": 46.314959,
     "lon": 13.494578,
     "plugin": "si-gov-arso"
   },
-  "Soča/HE Doblar": {
+  "soča/he doblar": {
     "river": "Soča",
     "station": "HE Doblar",
     "plugin": "si-gov-arso"
   },
-  "Soča/Solkan": {
+  "soča/solkan": {
     "river": "Soča",
     "station": "Solkan",
     "plugin": "si-gov-arso"
   },
-  "Koritnica/Kal - Koritnica": {
+  "koritnica/kal - koritnica": {
     "river": "Koritnica",
     "station": "Kal - Koritnica",
     "plugin": "si-gov-arso"
   },
-  "Učja/Žaga": {
+  "učja/žaga": {
     "river": "Učja",
     "station": "Žaga",
     "plugin": "si-gov-arso"
   },
-  "Tolminka/Tolmin": {
+  "tolminka/tolmin": {
     "river": "Tolminka",
     "station": "Tolmin",
     "plugin": "si-gov-arso"
   },
-  "Cerknica/Cerkno": {
+  "cerknica/cerkno": {
     "river": "Cerknica",
     "station": "Cerkno",
     "plugin": "si-gov-arso"
   },
-  "Trebuša/Dolenja Trebuša": {
+  "trebuša/dolenja trebuša": {
     "river": "Trebuša",
     "station": "Dolenja Trebuša",
     "plugin": "si-gov-arso"
   },
-  "Vipava/Vipava": {
+  "vipava/vipava": {
     "river": "Vipava",
     "station": "Vipava",
     "plugin": "si-gov-arso"
   },
-  "Vipava/Dolenje": {
+  "vipava/dolenje": {
     "river": "Vipava",
     "station": "Dolenje",
     "plugin": "si-gov-arso"
   },
-  "Vipava/Zalošče": {
+  "vipava/zalošče": {
     "river": "Vipava",
     "station": "Zalošče",
     "plugin": "si-gov-arso"
   },
-  "Branica/Branik": {
+  "branica/branik": {
     "river": "Branica",
     "station": "Branik",
     "plugin": "si-gov-arso"
   },
-  "Lijak/Volčja Draga": {
+  "lijak/volčja draga": {
     "river": "Lijak",
     "station": "Volčja Draga",
     "plugin": "si-gov-arso"
   },
-  "Vogršček/Bezovljak": {
+  "vogršček/bezovljak": {
     "river": "Vogršček",
     "station": "Bezovljak",
     "plugin": "si-gov-arso"
   },
-  "Kožbanjšček/Neblo": {
+  "kožbanjšček/neblo": {
     "river": "Kožbanjšček",
     "station": "Neblo",
     "plugin": "si-gov-arso"
   },
-  "Nadiža/Potoki": {
+  "nadiža/potoki": {
     "river": "Nadiža",
     "station": "Potoki",
     "plugin": "si-gov-arso"
   },
-  "Reka/Trpčane": {
+  "reka/trpčane": {
     "river": "Reka",
     "station": "Trpčane",
     "plugin": "si-gov-arso"
   },
-  "Reka/Trnovo": {
+  "reka/trnovo": {
     "river": "Reka",
     "station": "Trnovo",
     "plugin": "si-gov-arso"
   },
-  "Reka/Cerkvenikov mlin": {
+  "reka/cerkvenikov mlin": {
     "river": "Reka",
     "station": "Cerkvenikov mlin",
     "plugin": "si-gov-arso"
   },
-  "Reka/Škocjan": {
+  "reka/škocjan": {
     "river": "Reka",
     "station": "Škocjan",
     "plugin": "si-gov-arso"
   },
-  "Molja/Zarečica": {
+  "molja/zarečica": {
     "river": "Molja",
     "station": "Zarečica",
     "plugin": "si-gov-arso"
   },
-  "Rižana/Dekani": {
+  "rižana/dekani": {
     "river": "Rižana",
     "station": "Dekani",
     "plugin": "si-gov-arso"
   },
-  "Badaševica/Šalara": {
+  "badaševica/šalara": {
     "river": "Badaševica",
     "station": "Šalara",
     "plugin": "si-gov-arso"
   },
-  "Dragonja/Podkaštel": {
+  "dragonja/podkaštel": {
     "river": "Dragonja",
     "station": "Podkaštel",
     "plugin": "si-gov-arso"
   },
-  "Jadransko morje/Koper - Kapitanija": {
+  "jadransko morje/koper - kapitanija": {
     "river": "Jadransko morje",
     "station": "Koper - Kapitanija",
     "plugin": "si-gov-arso"
   },
-  "Jadransko morje/boja Piran": {
+  "jadransko morje/boja piran": {
     "river": "Jadransko morje",
     "station": "boja Piran",
     "plugin": "si-gov-arso"
