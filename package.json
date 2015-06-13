@@ -1,0 +1,19 @@
+{
+  "name": "hydrometers-fetcher",
+  "version": "0.0.1",
+  "description": "fetch info from hydrometers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alessandro-pezzato/hydrometers-fetcher.git"
+  },
+  "author": "Alessandro Pezzato <alessandro.pezzato@gmail.com> (http://pezzato.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alessandro-pezzato/hydrometers-fetcher/issues"
+  },
+  "homepage": "https://github.com/alessandro-pezzato/hydrometers-fetcher"
+}
