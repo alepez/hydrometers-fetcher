@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/alessandro-pezzato/hydrometers-fetcher/issues"
   },
-  "homepage": "https://github.com/alessandro-pezzato/hydrometers-fetcher"
+  "homepage": "https://github.com/alessandro-pezzato/hydrometers-fetcher",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "lodash": "^3.9.3",
+    "q": "^1.4.1",
+    "request": "^2.57.0"
+  }
 }
