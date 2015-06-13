@@ -25,8 +25,8 @@ describe('SiGovArso', function () {
   describe('getAvailableSensors', function () {
     it('can fetch available sensors', function (done) {
       SiGovArso.getAvailableSensors().then(function (sensors) {
-        assert.equal('Soča', sensors['Soča / Log Čezsoški'].river);
-        assert.equal('Log Čezsoški', sensors['Soča / Log Čezsoški'].station);
+        assert.equal('Soča', sensors['Soča/Log Čezsoški'].river);
+        assert.equal('Log Čezsoški', sensors['Soča/Log Čezsoški'].station);
         done();
       });
     });
